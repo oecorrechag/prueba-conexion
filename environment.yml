@@ -1,0 +1,9 @@
+# conda env create --file environment.yml
+name: Projecto aviones
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  
